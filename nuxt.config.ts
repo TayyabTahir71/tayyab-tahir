@@ -5,6 +5,9 @@ import { definePerson } from "nuxt-schema-org/schema"
 const IS_DEV = import.meta.dev
 
 export default defineNuxtConfig({
+  app: {
+    baseURL: '/tayyab-tahir/',
+  },
   colorMode: {
     preference: "system",
     fallback: "light",
@@ -49,7 +52,7 @@ export default defineNuxtConfig({
       gitInfo: {
         name: "tayyab-tahir.js.org",
         owner: "tayyab-tahir",
-        url: "https://github.com/tayyabtahir71/tayyab-tahir.js.org",
+        url: "https://github.com/tayyabtahir71/tayyab-tahir",
       },
     },
   },
@@ -161,12 +164,12 @@ export default defineNuxtConfig({
         "https://linkedin.com/in/tayyabtahir-nextay",
       ],
 
-      // Professional Details, if applicable
-      worksFor: {
-        "@type": "Organization",
-        name: "Paragon Square Inc.",
-        url: "https://paragonsquare.ai",
-      },
+      // // Professional Details, if applicable
+      // worksFor: {
+      //   "@type": "Organization",
+      //   name: "Paragon Square Inc.",
+      //   url: "https://paragonsquare.ai",
+      // },
     }),
   },
 })
