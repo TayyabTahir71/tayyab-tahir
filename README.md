@@ -6,7 +6,7 @@ A modern, high-performance personal portfolio and blog website built with **Nuxt
 
 ## 🌟 Live
 
-[https://tayyab-tahir.js.org](https://tayyab-tahir.js.org)
+[https://tayyab.nextaysolutions.com](https://tayyab.nextaysolutions.com)
 
 ## ✨ Features
 
@@ -299,7 +299,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Tayyab Tahir**
 
-- Website: [https://tayyab-tahir.js.org](https://tayyab-tahir.js.org)
+- Website: [https://tayyab.nextaysolutions.com](https://tayyab.nextaysolutions.com)
 - GitHub: [@tayyabtahir71](https://github.com/tayyabtahir71)
 - LinkedIn: [Tayyab Tahir](https://linkedin.com/in/tayyabtahir-nextay)
 - Email: [tayyabtahir71@gmail.com](mailto:tayyabtahir71@gmail.com)

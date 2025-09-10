@@ -5,9 +5,6 @@ import { definePerson } from "nuxt-schema-org/schema"
 const IS_DEV = import.meta.dev
 
 export default defineNuxtConfig({
-  app: {
-    baseURL: '/tayyab-tahir/',
-  },
   colorMode: {
     preference: "system",
     fallback: "light",
@@ -121,7 +118,7 @@ export default defineNuxtConfig({
 
   site: {
     indexable: true,
-    url: "https://tayyab-tahir.js.org",
+    url: "https://tayyab.nextaysolutions.com",
     name: "Tayyab Tahir - Full Stack Engineer",
     description:
       "Senior Software Engineer specializing in modern web technologies. Crafting scalable web applications and browser extensions for startups and founders.",
@@ -157,7 +154,7 @@ export default defineNuxtConfig({
 
       // Contact & Social, if applicable
       email: "tayyabtahir71@gmail.com",
-      url: "https://tayyab-tahir.js.org",
+      url: "https://tayyab.nextaysolutions.com",
       sameAs: [
         "https://twitter.com/tayyabtahir71",
         "https://github.com/tayyabtahir71",

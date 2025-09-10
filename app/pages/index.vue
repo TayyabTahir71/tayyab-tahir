@@ -61,14 +61,14 @@ if (profile.value) {
     defineWebSite({
       name: profile.value.name,
       description: profile.value.description,
-      url: "https://tayyab-tahir.js.org",
+      url: "https://tayyab.nextaysolutions.com",
     }),
     definePerson({
       name: profile.value.name,
       jobTitle: profile.value.title,
       description: profile.value.description,
       image: profile.value.avatar,
-      url: "https://tayyab-tahir.js.org",
+      url: "https://tayyab.nextaysolutions.com",
       sameAs: profile.value.social?.map((s) => s.url) || [],
     }),
   ])
