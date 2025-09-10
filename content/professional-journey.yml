@@ -1,0 +1,302 @@
+experiences:
+- id: 1
+  title: Agentic AI Product Engineer
+  company: XRP Healthcare
+  location: Remote
+  period: Jan 2023 - Present
+  current: true
+  description: >
+    Building intelligent, scalable, and user-friendly digital health products by
+    integrating Agentic AI into real-world applications that combine automation,
+    user interaction, and scalable infrastructure.
+  responsibilities:
+    - Design and engineer Agentic AI-powered digital health applications.
+    - Integrate automation and conversational AI into healthcare workflows.
+    - Ensure scalability, performance, and user-centered design.
+    - Collaborate with cross-functional teams for product strategy and delivery.
+  technologies:
+    - Agentic AI
+    - React Native
+    - Scalable Infrastructure
+  achievements:
+    - Built and deployed AI-driven health product prototypes.
+    - Improved patient engagement through intelligent automation.
+    - Enhanced system scalability for growing user demand.
+
+- id: 2
+  title: Lead Senior Project Manager
+  company: NuClass School Management System
+  location: Remote
+  period: Nov 2022 - Mar 2025
+  current: false
+  description: >
+    Led the end-to-end delivery of the NuClass School Management System, driving
+    product development, implementation, and optimization for education-focused solutions.
+  responsibilities:
+    - Oversaw planning, development, and launch of school management tools.
+    - Coordinated with designers, developers, and stakeholders.
+    - Ensured timely delivery and scalability of the platform.
+    - Aligned product strategy with real-world educational requirements.
+  technologies:
+    - Project Management
+    - Agile
+    - Full-Stack Coordination
+  achievements:
+    - Successfully launched core modules for teachers, admins, and schools.
+    - Improved operational efficiency for multiple institutions.
+    - Delivered scalable solutions within time and budget.
+
+- id: 3
+  title: Full Stack Engineer
+  company: Urbanitarian
+  location: Remote
+  period: Sep 2021 - Nov 2022
+  current: false
+  description: >
+    Contributed to building scalable digital solutions for urban sustainability
+    and community engagement, covering the full software development lifecycle.
+  responsibilities:
+    - Built responsive, high-performance web apps to support city insights.
+    - Designed and integrated secure APIs for real-time updates.
+    - Collaborated with designers, data analysts, and stakeholders.
+    - Optimized backend performance and improved scalability.
+  technologies:
+    - Agile
+    - REST APIs
+    - GitHub
+    - CI/CD
+    - Laravel
+    - React
+
+  achievements:
+    - Improved platform speed and user engagement.
+    - Delivered feature rollouts on time for key milestones.
+    - Enhanced backend scalability for growing demand.
+
+- id: 4
+  title: Senior Software Project Manager
+  company: Upsol Technologies
+  location: On-site
+  period: Jul 2019 - Sep 2021
+  current: false
+  description: >
+    Managed web and mobile application projects for diverse clients, ensuring
+    high-quality deliverables while coordinating full-stack development initiatives.
+  responsibilities:
+    - Directed project lifecycle from planning to deployment.
+    - Aligned development with client goals and business needs.
+    - Managed cross-functional teams (design, dev, QA).
+    - Implemented agile workflows and risk mitigation.
+  technologies:
+    - Agile
+    - Full-Stack Management
+    - Client Communication
+  achievements:
+    - Delivered multiple client applications successfully.
+    - Increased efficiency through improved agile practices.
+    - Strengthened client satisfaction with timely delivery.
+
+- id: 5
+  title: Web Developer
+  company: MyCastings
+  location: Freelance
+  period: Mar 2019 - Feb 2020
+  current: false
+  description: >
+    Contributed to the development and maintenance of the MyCastings platform,
+    improving user experience and backend functionality for casting workflows.
+  responsibilities:
+    - Developed responsive UI components and features.
+    - Enhanced backend performance and data security.
+    - Collaborated with designers and project leads.
+    - Integrated APIs for scalability and usability.
+  technologies:
+    - Web Development
+    - API Integration
+    - Responsive UI
+    - Laravel
+    - React
+
+  achievements:
+    - Improved platform scalability and security.
+    - Enhanced casting workflows and user experience.
+    - Delivered clean, modular, and maintainable code.
+
+education:
+  - id: 1
+    degree: Master of Science, Computer Software Engineering
+    institution: National University of Computer and Emerging Sciences (FAST-NUCES)
+    location: Islamabad, Pakistan
+    period: Aug 2022 - 2025
+    description: >
+      Advanced graduate studies focused on software engineering, artificial intelligence,
+      distributed systems, and scalable product development. Coursework emphasized both
+      theoretical foundations and practical applications in modern computing.
+    achievements:
+      - Specialized in AI-driven software engineering and automation.
+      - Conducted research on market basket analysis for customer similarity ranking.
+      - Designed and implemented scalable solutions as part of thesis and projects.
+      - Collaborated with peers on real-world case studies and team-based projects.
+
+  - id: 2
+    degree: Bachelor of Science in Information Technology (BSIT)
+    institution: University of Sargodha
+    location: Sargodha, Pakistan
+    period: 2016 - 2021
+    description: >
+      Undergraduate program covering the fundamentals of information technology,
+      programming, database systems, networking, and project management. Built a solid
+      foundation in both theoretical and applied aspects of IT and software development.
+    achievements:
+      - Developed multiple academic projects in web and mobile technologies.
+      - Built a strong base in databases, algorithms, and software engineering principles.
+      - Led group assignments, fostering teamwork and technical collaboration.
+      - Graduated with a focus on practical, hands-on IT solutions.
+
+
+certifications:
+  - id: 1
+    name: AWS Certified Solutions Architect - Associates
+    issuer: Amazon Web Services (AWS)
+    date: "2023-06-01"
+    credentialId: "AWS-ASA-123456"
+    description: >
+      Validated expertise in designing and deploying scalable, highly available,
+      and fault-tolerant systems on AWS cloud infrastructure.
+
+  - id: 2
+    name: Microsoft Certified - Azure Fundamentals
+    issuer: Microsoft
+    date: "2022-11-01"
+    credentialId: "AZ-900-654321"
+    description: >
+      Demonstrated foundational knowledge of cloud services and how Microsoft Azure
+      supports cloud-based solutions across different industries.
+
+  - id: 3
+    name: TensorFlow Developer Certificate
+    issuer: Google
+    date: "2023-09-01"
+    credentialId: "TF-DEV-789012"
+    description: >
+      Certified ability to build, train, and deploy machine learning and deep learning
+      models using TensorFlow for practical applications.
+
+  - id: 4
+    name: Professional Scrum Master I (PSM I)
+    issuer: Scrum.org
+    date: "2022-04-01"
+    credentialId: "PSM-001234"
+    description: >
+      Gained proficiency in Agile principles and Scrum framework, enabling effective
+      project management, team collaboration, and iterative delivery.
+
+  - id: 5
+    name: JavaScript Algorithms and Data Structures
+    issuer: freeCodeCamp
+    date: "2021-12-01"
+    credentialId: "FCC-ALGO-567890"
+    description: >
+      Completed a comprehensive curriculum on core JavaScript, data structures,
+      and algorithms, strengthening problem-solving and coding efficiency.
+
+
+technologies:
+  languages:
+    - "Node.js"
+    - "TypeScript"
+    - "JavaScript"
+    - "PHP"
+    - "C#"
+    - "T-SQL"
+    - "Python"
+    - "Java"
+
+  frameworks:
+    - "NextJS"
+    - "ExpressJS"
+    - "Laravel"
+    - "CodeIgniter"
+    - "Django"
+    - "Flask"
+    - "Fastify"
+
+  frontend:
+    - "NextJS"
+    - "React"
+    - "Tailwind CSS"
+    - "SCSS"
+    - "HTML"
+    - "Pug"
+    - "EJS"
+    - "Canvas"
+
+  testing:
+    - "Jest"
+    - "Vitest"
+    - "Playwright"
+    - "Cypress"
+    - "Selenium"
+    - "TDD"
+
+  databases:
+    - "PostgreSQL"
+    - "Supabase"
+    - "Firebase"
+    - "MongoDB"
+    - "Redis"
+    - "Memcached"
+    - "MySQL"
+    - "SQL Server"
+    - "SQLite"
+    - "KV"
+  
+  devops:
+    - "Docker"
+    - "AWS"
+    - "Google Cloud"
+    - "Cloudflare"
+    - "GitHub Actions"
+    - "CircleCI"
+    - "Heroku"
+    - "Nginx"
+    - "Netlify"
+    - "Vercel"
+
+  automation:
+    - "n8n"
+    - "Zapier"
+    - "Puppeteer"
+    - "Web Scraping"
+    - "Bash"
+    - "Git"
+    - "GitHub"
+    - "GitHub Actions"
+    - "VSCode"
+    - "WebStorm"
+
+  AI & agentic:
+    - "OpenAI"
+    - "LangChain"
+    - "Agentic AI"
+    - "Vector Databases"
+    - "RAG"
+    - "LLM Orchestration"
+    - "Chatbots & AI Assistants"
+
+  build & tooling:
+    - "Vite"
+    - "Webpack"
+    - "ESLint"
+    - "Prettier"
+    - "Storybook"
+    - "Prisma"
+
+  other:
+    - "REST APIs"
+    - "GraphQL"
+    - "WebSockets"
+    - "WebRTC"
+    - "Socket.IO"
+    - "Performance Optimization"
+    - "Accessibility"

@@ -1,0 +1,122 @@
+services:
+  - id: 1
+    title: "Web Applications"
+    description: "Modern, scalable, and user-friendly web apps tailored to your business needs."
+    icon: "i-ph-browser"
+    suitable: "Startups, SMEs, Enterprises"
+
+  - id: 2
+    title: "Mobile Applications"
+    description: "Cross-platform mobile apps with seamless performance and exceptional user experience."
+    icon: "i-ph-device-mobile"
+    suitable: "Startups, SMEs, Enterprises"
+
+  - id: 3
+    title: "AI Solutions"
+    description: "Intelligent AI-driven systems and automation that boost efficiency and innovation."
+    icon: "i-ph-brain"
+    suitable: "AI & Automation Ready"
+
+  - id: 4
+    title: "API Integrations"
+    description: "Secure, reliable, and scalable APIs that connect and extend your systems."
+    icon: "i-ph-plugs"
+    suitable: "All business sizes"
+
+  - id: 5
+    title: "Technical & AI Consulting"
+    description: "Expert guidance on system architecture, AI adoption, and technology roadmaps."
+    icon: "i-ph-lightbulb"
+    suitable: "All business sizes"
+
+  - id: 6
+    title: "Project Leadership"
+    description: "Hands-on leadership and mentorship to guide teams and deliver successful projects."
+    icon: "i-ph-users-three"
+    suitable: "Medium to Large Teams"
+
+
+
+process:
+  - step: 1
+    title: Discovery
+    description: Understanding your vision, goals, and challenges to define a clear project roadmap.  
+    icon: "i-ph-chat-circle"
+    details:
+      - One-on-one consultation to understand your business, audience, and goals.  
+      - Analyze current systems, workflows, and technology gaps.  
+      - Identify opportunities for automation, AI, or digital transformation.  
+      - Define key challenges and success metrics to measure results.  
+      - Provide initial recommendations and tailored solution outline.  
+
+
+  - step: 2
+    title: Planning
+    description: Designing scalable, future-proof solutions aligned with business needs.  
+    icon: "i-ph-compass"
+    details:
+      - Create detailed technical architecture and project structure.  
+      - Design user journeys, wireframes, and workflows for clarity.  
+      - Select the right tech stack for long-term scalability.  
+      - Break down project into phases with clear timelines and deliverables.  
+      - Align budget, resources, and milestones with expectations.  
+
+  - step: 3
+    title: Development
+    description: Building robust web, mobile, and AI-driven solutions with precision.  
+    icon: "i-ph-code"
+    details:
+      - Develop front-end and back-end with modern frameworks.  
+      - Build mobile apps with seamless performance and UI.  
+      - Integrate APIs, third-party services, and AI/ML models.  
+      - Ensure security, scalability, and maintainable architecture.  
+      - Conduct regular progress reviews and gather feedback.  
+      - Apply agile methodology for flexibility and faster iterations.  
+
+  - step: 4
+    title: Delivery
+    description: Deploying, scaling, and ensuring continuous value after launch.  
+    icon: "i-ph-rocket-launch"
+    details:
+      - Smooth deployment with DevOps, CI/CD, and cloud setup.  
+      - Provide documentation, knowledge transfer, and training if needed.  
+      - Perform QA testing, bug fixing, and final optimizations.  
+      - Offer post-launch support and ongoing maintenance.  
+      - Monitor performance and implement data-driven improvements.  
+      - Scale features as your business grows to stay ahead.   
+
+
+packages:
+  - name: Starter
+    description: Best for small businesses or startups looking to launch quickly with essential features.  
+    features:
+      - One-time project setup & deployment  
+      - Basic website or mobile app (up to X pages/screens)  
+      - Standard integrations (APIs, database, payments)  
+      - Responsive UI with modern design  
+      - 2 rounds of revisions  
+      - 1 month of post-launch support  
+
+  - name: Growth
+    description: Ideal for businesses scaling operations and needing advanced functionality with ongoing support.  
+    features:
+      - Everything in Starter, plus  
+      - Advanced features (authentication, dashboards, analytics)  
+      - Custom API development & third-party integrations  
+      - AI-powered components (chatbots, automation, recommendations)  
+      - Performance optimization (speed, caching, scalability)  
+      - Continuous communication & project updates  
+      - 3 months of post-launch support  
+    highlighted: true
+
+  - name: Enterprise
+    description: Designed for established businesses needing fully customized, scalable, and AI-driven digital solutions.  
+    features:
+      - Everything in Growth, plus
+      - Complex, large-scale web & mobile apps  
+      - Agentic AI & automation workflows tailored to business needs  
+      - Cloud setup (AWS, GCP, etc.) with CI/CD pipelines  
+      - Security hardening & compliance best practices  
+      - Priority support & dedicated maintenance  
+      - Long-term collaboration & feature scaling  
+

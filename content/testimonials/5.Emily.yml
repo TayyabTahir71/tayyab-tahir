@@ -1,0 +1,12 @@
+avatar: ""
+name: "Emily R."
+title: "CEO"
+company: "Travel Platform"
+quote: "Tayyab delivered a web app that`s both beautiful and powerful. Our users can now manage bookings, payments, and support in one place—customer satisfaction jumped instantly."
+project: "Travel Booking Web Application"
+results:
+  - "Customer satisfaction +25%"
+  - "Integrated payments & live chat"
+  - "Mobile-first responsive design"
+featured: true
+rating: 5

@@ -1,0 +1,13 @@
+avatar: ""
+name: "Laura S."
+title: "COO"
+company: "Creative Agency"
+quote: "Tayyab built a powerful project management platform tailored to our agency`s workflow. From client dashboards to automated reports, everything runs smoother and faster now—our team saves hours every week."
+project: "Agency Project Management Platform"
+results:
+  - "30% faster project delivery"
+  - "Automated client reporting"
+  - "Cross-platform (Web & Mobile)"
+  - "Team productivity up 40%"
+featured: true
+rating: 5

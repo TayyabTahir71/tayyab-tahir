@@ -1,0 +1,12 @@
+avatar: ""
+name: "Sarah K."
+title: "Product Manager"
+company: "HealthTech Company"
+quote: "Tayyab built our mobile prescription app flawlessly. The UX is smooth, offline mode works perfectly, and patients love it! We couldn’t have asked for a better engineer."
+project: "Mobile Prescription Management App"
+results:
+  - "Seamless offline mode"
+  - "App Store 4.9 rating"
+  - "Zero crash reports in production"
+featured: true
+rating: 5

@@ -1,0 +1,36 @@
+list:
+  - label: "What services do you offer?"
+    content: "I provide full-stack web and mobile development, AI & Agentic AI integration, API development, automation, cloud solutions, technical consulting, and project management. My focus is on building scalable, secure, and user-friendly products."
+
+  - label: "Do you work with startups, SMEs, or enterprises?"
+    content: "Yes, I work with businesses of all sizes. From startups needing MVPs, to SMEs scaling their platforms, to enterprises looking to integrate AI or modernize legacy systems."
+
+  - label: "What technologies do you specialize in?"
+    content: "My expertise includes Node.js, TypeScript, PHP, Python, Java, C#, Next.js, React, Laravel, Django, PostgreSQL, MongoDB, Docker, AWS, Google Cloud, and advanced AI/LLM frameworks like OpenAI and LangChain."
+
+  - label: "Do you provide technical consulting in addition to development?"
+    content: "Yes. I often support clients with technical strategy, architecture planning, system audits, and scaling guidance. This ensures that solutions are not only built but also strategically aligned with business goals."
+
+  - label: "How does the project process work?"
+    content: "I follow a proven 4-step process: Discovery (understanding your needs), Planning (architecture & roadmap), Development (iterative sprints with regular updates), and Delivery (launch & handover). This ensures transparency, collaboration, and predictable results."
+
+  - label: "Can I request changes or new features during development?"
+    content: "Yes. I use agile methodologies, so changes and new requirements can be accommodated. We’ll align on priorities and timelines to ensure flexibility without compromising quality."
+
+  - label: "Who owns the intellectual property (IP) after project delivery?"
+    content: "All intellectual property, including code, designs, and documentation, is fully transferred to you upon project completion and payment. You will have complete ownership and control."
+
+  - label: "What about timelines? How long will my project take?"
+    content: "Timelines vary based on project scope and complexity. During the discovery and planning phase, I provide a clear estimate. I also break down deliverables into milestones so you can track progress."
+
+  - label: "Do you provide support and maintenance after launch?"
+    content: "Yes. I offer ongoing support, maintenance, and scaling packages. Whether it’s bug fixes, performance optimization, or feature expansion, I ensure your product continues to perform reliably."
+
+  - label: "How do you ensure project quality?"
+    content: "I use modern testing frameworks (Jest, Cypress, Playwright), follow TDD where applicable, and conduct code reviews to maintain high standards. Performance, scalability, and security are always priorities."
+
+  - label: "Do you work remotely or on-site?"
+    content: "I primarily work remotely with global clients. However, for specific projects or long-term engagements, on-site collaboration can be discussed."
+
+  - label: "How do we start working together?"
+    content: "Simply reach out through my contact form or email. We’ll schedule an initial call to understand your requirements, define the scope, and decide the best path forward."

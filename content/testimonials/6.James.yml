@@ -1,0 +1,13 @@
+avatar: ""
+name: "James P."
+title: "Head of Data Science"
+company: "AI Startup"
+quote: "Tayyab`s AI expertise blew us away. He implemented a real-time recommendation system that boosted our engagement metrics far beyond projections."
+project: "AI-Powered Recommendation Engine"
+results:
+  - "CTR increased by 45%"
+  - "Engagement up 60%"
+  - "Trained on millions of records"
+  - "Delivered production-ready in 4 weeks"
+featured: true
+rating: 5

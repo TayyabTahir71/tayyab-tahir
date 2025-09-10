@@ -1,0 +1,42 @@
+name: Tayyab Tahir
+title: Software Engineer | Full-Stack & DevOps | AI/ML & Agentic AI Specialist
+avatar: /tayyab-tahir.png
+description: Delivering robust, scalable, and user-focused software solutions that drive business success.
+tagline: I build clean, scalable systems—ranging from SaaS platforms to AI-powered applications—with a focus on performance, reliability, and developer experience. 7+ years deep in full-stack development, AI/ML, and DevOps, currently exploring Agentic AI and modern infrastructure. BS IT (2021) · MS Software Engineering (2025)
+social:
+  - name: GitHub
+    url: https://github.com/tayyabtahir71
+    icon: i-ph-github-logo
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/tayyabtahir-nextay
+    icon: i-ph-linkedin-logo
+  - name: X
+    url: https://x.com/tayyabtahir71
+    icon: i-ph-x-logo
+workApproach:
+  - Architecting solutions and managing product lifecycles - optimizing performance, scalability, and security
+  - Leading agile teams and collaborating with clients - Ensuring clarity, timeliness, and adaptability in all project phases
+  - Automating workflows and ensuring code quality
+currentFocus:
+  - Infrastructure as Code (IaC)
+  - Cloud-native tooling and observability
+  - AI-assisted development workflows
+clientSatisfaction: 100
+projectsDelivered: 85
+experience: 7
+availability:
+  status: available
+  statusText: Available for new projects
+  # startDate: August 2025
+  startDateContext: "Next opening"
+  description: Open to freelance, consulting, and collaborative projects, I bring flexibility in remote, async, and agile workflows. With experience working across time zones and distributed teams, I ensure seamless collaboration and successful delivery.
+  responseTime: 4h
+  slotsAvailable: 3
+  paymentTerms: "20% upfront, rest on milestones"
+  cta:
+    text: Email Now To Discuss Your Project Or Idea
+    url: mailto:tayyabtahir71@gmail.com
+  note: I aim to reply as quickly as possible with the attention your message deserves.
+footer:
+  message: Thank you for your interest. I look forward to collaborating and building something exceptional together.
+  lastUpdated: 2025-08-28T12:00:00.000Z

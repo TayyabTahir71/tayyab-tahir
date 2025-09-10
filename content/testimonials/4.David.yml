@@ -1,0 +1,13 @@
+avatar: ""
+name: "David L."
+title: "Founder"
+company: "E-Commerce Startup"
+quote: "The API system Tayyab designed scaled effortlessly during our holiday sales. Secure, fast, and well-documented—our dev team loved integrating it!"
+project: "High-Performance API Backend"
+results:
+  - "Handled Multiple API calls"
+  - "99.99% uptime"
+  - "Comprehensive API docs"
+  - "Reduced integration time by 40%"
+featured: true
+rating: 5
