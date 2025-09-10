@@ -53,8 +53,8 @@ onMounted(() => {
       class="absolute inset-0 w-full h-full"
       :style="{
          backgroundImage: colorMode.value === 'dark' 
-        ? `url('/bg4.jpg')` 
-        : `url('/bg1.jpg')`,
+        ? `url('/bg-dark.jpeg')` 
+        : `url('/bg-light.jpeg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         // Provide CSS variables for theme-aware colors
